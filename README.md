@@ -24,7 +24,7 @@ El proyecto abarca diversos componentes tecnológicos avanzados. A continuación
 
 Para empezar a utilizar el proyecto, puedes mandarme un correo o visitar el link: [Google Drive Link](https://drive.google.com/drive/folders/1zMZ1ijxlTlf6UVXcXUPmxrn_8LZuRemy?usp=sharing)
 
-
+![imagen_ulertuz](https://github.com/ElizYo/Ulertuz/assets/113165553/02da47c5-cc7b-447c-aff9-0f8584c7fd67)
 
 # Ulertuz
 Mobile application for simultaneous translation of sign language to Spanish.
