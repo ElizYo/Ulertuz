@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_comida.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_comida.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_palabra.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_palabra.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_inicio.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\activity_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_registro.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_fechas.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_fechas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_images.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\item_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_colores.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_colores.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_palabra_detalles.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_palabra_detalles.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_portada.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_portada.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_tutorial.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_tutorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_perfil.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_numeros.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_numeros.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_movie.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\item_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_camera.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_animales.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_animales.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_bottom_sheet.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_image.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_saludos.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_saludos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_familia.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_familia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_abecedario.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_abecedario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

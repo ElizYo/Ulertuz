@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_cake_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_cake_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_family_restroom_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_family_restroom_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_close_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_close_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_animales.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_animales.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_item_movie.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\item_movie.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_date_range_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_date_range_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_colores.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_colores.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_minus.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\ic_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_portada.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_portada.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_registro.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_color_lens_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_color_lens_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\color_selector_ic.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\color\\selector_ic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_palabra_detalles.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_palabra_detalles.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_palabra.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_palabra.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_search.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\menu\\menu_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_saludos.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_saludos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_edittext.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\custom_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_a1.jpg.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\a1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_border.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\custom_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_abecedario.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_abecedario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_perfil.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_button2.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\bg_button2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_familia.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_familia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_loginbkg2.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\loginbkg2.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_mic_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_mic_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_segnalmini.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\segnalmini.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_tfl_logo.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\tfl_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_comida.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_comida.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_waving_hand_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_waving_hand_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_pets_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_pets_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\font_montserrat.ttf.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\font\\montserrat.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_inicio.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\activity_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_item_images.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\item_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_a2.jpg.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\a2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_sort_by_alpha_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_sort_by_alpha_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded_shape.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\rounded_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_headerbkg.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\headerbkg.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_searchview_background.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\searchview_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_item_image.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_button.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_numeros.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_numeros.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_reward.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_reward.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_icn_chevron_up.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\icn_chevron_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_tfl_logo.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable-v24\\tfl_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_loginbkg.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\loginbkg.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_a3.jpg.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\a3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\menu_nav_menu.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_tutorial.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_tutorial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_numbers_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_numbers_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_fechas.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_fechas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_info_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_camera.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_keyboard_arrow_up_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_keyboard_arrow_up_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\build\\intermediates\\merged_res\\debug\\drawable_baseline_local_pizza_24.xml.flat",
+        "source": "C:\\Users\\Usuario\\Desktop\\androidobject\\app\\src\\main\\res\\drawable\\baseline_local_pizza_24.xml"
+    }
+]
